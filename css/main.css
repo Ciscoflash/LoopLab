@@ -41,7 +41,7 @@ header .headItem{
     img{
         width: 300px !important;
         height: 300px !important;
-        margin-left: 3rem;
+        margin-left: 2rem;
     }
 }
 @media (max-width:320px) {
