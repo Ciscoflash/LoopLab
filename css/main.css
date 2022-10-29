@@ -1,0 +1,38 @@
+body{
+    background-color: #333 !important;
+    color: #fff !important;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.navbar{
+    border-bottom: #008edc 3px solid;
+    opacity: 0.8;
+}
+header .innerHead{
+    width: 100%;
+    background-image: url("../img/home.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}header .innerHead .overlayHead{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+    background: rgba(0, 0, 0, .7);
+}
+header .headItem{
+    padding-top: 10rem;
+}
+.explorehead .innerExplore h2{
+    font-size: 3rem !important;
+}
+.explorehead .innerExplore p{
+    font-size: 1.5rem !important;
+}
+.thirdSection img{
+    width: 600px;
+    height: 500px;
+}
